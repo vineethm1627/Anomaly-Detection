@@ -1,5 +1,5 @@
 # Anomaly-Detection
-Anomaly Detection in Time Series Data using LSTM Autoencoders in Keras
+Anomaly Detection in Time Series Data using LSTM Autoencoders in Keras. In this context, anomaly implies sudden prices changes in the stock market.
 
 ## Learning Objectives
 
